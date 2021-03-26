@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VISA DEEP on VISA DEEP</title>
+    <link>/</link>
+    <description>Recent content in VISA DEEP on VISA DEEP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Terre Errante</title>
+      <link>/books/wandering-earth/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/books/wandering-earth/</guid>
+      <description>&lt;p&gt;Un condensé de la magie de Liu Cixin: la volonté de coller au plus près à la science malgré quelques pré-requis SF, une poésie toute chinoise sublimant ce monde qui apparaît devant les yeux du lecteur, une réflexion philosophique à tiroirs infinis poussant parfois à relire plusieurs fois les mêmes passages et à y penser sous 4 angles différents, des échos énormes aux plus grandes problématiques actuelles. Nous savons maintenant que notre Terre est finie, limitée. Mais dans cette nouvelle, c&amp;rsquo;est notre lumière dans le noir, notre point de repère universel qui est en danger: c&amp;rsquo;est bien notre Soleil qui est sur le point de mourir.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accumulus</title>
+      <link>/project/accumulus/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/project/accumulus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks</title>
+      <link>/publication/mixmo/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mixmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DICE: Diversity in Deep Ensembles via Conditional Redundancy Adversarial Estimation</title>
+      <link>/publication/dice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab for sustainability</title>
+      <link>/post/ecology/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRAIRIE Artificial Intelligence Summer School: key takeaways</title>
+      <link>/post/prairie/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/prairie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Three-Body Problem trilogy</title>
+      <link>/books/three-body/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/books/three-body/</guid>
+      <description>&lt;p&gt;Bouquin unique, belle porte d&amp;rsquo;entrée à la hard sciences, qui plaira aux adeptes de SF comme aux fans de thrillers et aux ufologues. Premier tome d&amp;rsquo;une trilogie qui aura remporté le prix Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From text unlabelled data to multilingual representations</title>
+      <link>/post/multilingual/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/post/multilingual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
