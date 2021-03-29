@@ -48,20 +48,11 @@
     </item>
     
     <item>
-      <title>Lab for sustainability</title>
-      <link>/post/ecology/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0200</pubDate>
+      <title>RUBi: Reducing unimodal biases for Visual Question Answering</title>
+      <link>/publication/rubi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>/post/ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PRAIRIE Artificial Intelligence Summer School: key takeaways</title>
-      <link>/post/prairie/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/post/prairie/</guid>
+      <guid>/publication/rubi/</guid>
       <description></description>
     </item>
     
@@ -73,15 +64,6 @@
       <guid>/books/three-body/</guid>
       <description>&lt;p&gt;Bouquin unique, belle porte d&amp;rsquo;entrée à la hard sciences, qui plaira aux adeptes de SF comme aux fans de thrillers et aux ufologues. Premier tome d&amp;rsquo;une trilogie qui aura remporté le prix Hugo.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>From text unlabelled data to multilingual representations</title>
-      <link>/post/multilingual/</link>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/post/multilingual/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -36,16 +36,8 @@
     
     <url>
     
-      <loc>/post/ecology/</loc>
-      <lastmod>2019-10-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/prairie/</loc>
-      <lastmod>2018-07-27T00:00:00+02:00</lastmod>
+      <loc>/publication/rubi/</loc>
+      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -54,14 +46,6 @@
     
       <loc>/books/three-body/</loc>
       <lastmod>2018-05-13T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/multilingual/</loc>
-      <lastmod>2017-07-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -100,6 +84,21 @@
     
     <url>
     
+      <loc>/authors/rame/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -108,9 +107,14 @@
     
     <url>
     
-      <loc>/tags/nlp/</loc>
-      <lastmod>2017-07-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>/authors/cdancette/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cord/</loc>
     </url>
     
   
@@ -135,7 +139,6 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-07-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -145,24 +148,6 @@
     
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/summerschool/</loc>
-      <lastmod>2018-07-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/sustainability/</loc>
-      <lastmod>2019-10-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
