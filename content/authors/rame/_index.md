@@ -1,11 +1,11 @@
 ---
 user_groups: ["PhD Students"]
 title: "Alexandre Ramé"
-role: "PhD Student"
-organizations: 
+role: "Thesis subject: deep ensembles to boost image understanding"
+organizations:
     - name: "LIP6, Sorbonne Université"
       url: http://lip6.fr
 
-link: https://scholar.google.com/citations?user=7znwivwAAAAJ&hl=en
-email: corentin.dancette@gmail.com
+link: https://alexrame.github.io/
+email: alexandre.rame.cl@gmail.com
 ---

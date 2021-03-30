@@ -1,8 +1,8 @@
 ---
 user_groups: ["PhD Students"]
 title: "Corentin Dancette"
-role: "PhD Student"
-organizations: 
+role: "Thesis subject: deep learning for vision reasoning"
+organizations:
     - name: "LIP6, Sorbonne Université"
       url: http://lip6.fr
 
