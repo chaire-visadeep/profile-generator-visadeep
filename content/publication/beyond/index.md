@@ -21,10 +21,10 @@ publication_origin = "ICCV 2021"
 
 pdf = "https://arxiv.org/pdf/2104.03149.pdf"
 project_page = false
-code = false
+code = true
 
 url_pdf = "https://arxiv.org/pdf/2104.03149.pdf"
-# url_code = false
+url_code = "https://github.com/cdancette/detect-shortcuts"
 url_dataset = false
 # url_poster = "https://drive.google.com/file/d/1Kcu4YZYn4yowp9H6CKht_upoI6-2plaU/view?usp=sharing"
 url_project = false
